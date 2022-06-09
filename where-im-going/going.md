@@ -3,3 +3,7 @@ I am going everywhere and travel to different countries! 🛫🛣️⛴️
 I have a buckect list of all the places when I'm going 
 My plan is to really go into the countries I choose and understand their culture and just be a regular tourist. 
 Hopefully I get famous and get paid to travel too 💸.
+
+Current Directory Path: /Users/student/AboutMarlon/"who-am-i"
+Next Directory Path: /Users/student/AboutMarlon/"whats-important"
+Previous Directory Path: /Users/student/AboutMarlon/""
