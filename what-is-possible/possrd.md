@@ -1,6 +1,6 @@
  # What's possible? 
 ## What's possible is EVERYTHING. 
-### I have a couple of quotes that inspire whenever im starting to doubt my situation or myself:
+### I have a couple of quotes that inspire whenever im starting to doubt my situation or myself 📃: 
 “The only impossible journey is the one you never begin” 
 > – Tony Robbins
 
