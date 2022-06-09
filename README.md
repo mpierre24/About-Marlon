@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<strong>  This overview is a about myself discussing a little bit of "Marlon". I broke the information down into 5 parts; Who I am, what I know,
+<strong>  ✨ This overview is a about myself discussing a little bit of "Marlon". I broke the information down into 5 parts; Who I am, what I know,
 where I'm going, what's important & what's possible. </strong>
   </p>
    
