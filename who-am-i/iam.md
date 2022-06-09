@@ -1,7 +1,7 @@
 # Who is Marlon? 
 Hi, my name is Marlon 👋.
 
-I am from New Haven,CT & I am 27
+I am from New Haven, CT & I am 27
 
 I have a few interest and hobbies that I enjoy. Those things are:
 
