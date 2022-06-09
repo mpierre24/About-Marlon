@@ -5,6 +5,6 @@
 “You don’t have to be great to start, but you have to start to be great” – Zig Ziglar
 “Everything you’ve ever wanted is on the other side of fear” – George Addair
 
-Current Directory Path: /Users/student/AboutMarlon/"who-am-i"
-Next Directory Path: /Users/student/AboutMarlon/"whats-important"
-Previous Directory Path: /Users/student/AboutMarlon/""
+Current Directory Path: /Users/student/AboutMarlon/"what-is-possible"
+Next Directory Path: /Users/student/AboutMarlon/"something-i-know"
+Previous Directory Path: /Users/student/AboutMarlon/"whats-important"
