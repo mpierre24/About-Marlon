@@ -5,5 +5,5 @@ music new & old 🔊🎶, tech gadgets 📲📸⌚ & tech development in general
 
 
 Current Directory Path: /Users/student/AboutMarlon/"who-am-i"
-Next Directory Path: /Users/student/AboutMarlon/"whats-important"
+Next Directory Path: /Users/student/AboutMarlon/"where-im-going"
 Previous Directory Path: /Users/student/AboutMarlon/""
